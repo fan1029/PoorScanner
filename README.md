@@ -1,6 +1,7 @@
 # PoorScanner使用说明书
 
 ![](https://img.shields.io/badge/Version-1.0.1%20Beta-yellow)
+[![图片名称](https://img.shields.io/badge/%E5%8F%8D%E9%A6%88-%E7%82%B9%E6%88%91-brightgreen)](https://github.com/fan1029/PoorScanner/issues/new)
 
 -软件在不同环境下可能不怎么稳定，如果有什么问题恳请大家反馈。说明书有什么错误的地方也大家欢迎指正。
 
