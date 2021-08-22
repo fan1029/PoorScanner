@@ -43,7 +43,7 @@ e.g
 
 ```java
 python poorscanner.py -u http://www.baidu.com/
-python poorscanner.py -u http://www.baidu.com/ -d php.txt  自定义字典
+python poorscanner.py -u http://www.baidu.com/ -d php.txt  自定义字典(需放在dictionary目录下)
 python poorscanner.py -u http://www.baidu.com/ -s 60    自定义速度
 python poorscanner.py -u http://www.baidu.com/  -t hidden 隐蔽扫描
 
@@ -52,7 +52,7 @@ python poorscanner.py -u http://www.baidu.com/  -t hidden 隐蔽扫描
 ```java
 -h, --help            show this help message and exit
   -u U                  输入扫描的目标 e.g http://www.baidu.com/
-  -d D                  输入要使用的自定义字典路径
+  -d D                  输入要使用的自定义字典名(请放在dictionary目录下)
   -s S                  扫描速度
   -m M                  请求方式 head(这个快点) get 默认为get
   -t T                  模式默认为普通模式扫描 传参为hidden为隐蔽扫描
