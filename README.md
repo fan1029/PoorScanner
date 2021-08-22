@@ -152,7 +152,7 @@ maple_10101对应owner
 
 poorscanner 对应配置文件中的 repo
 
-然后去申请个gitee私人令牌，然后记住令牌，后面要用。
+然后去申请个gitee私人令牌，然后记住令牌，填写在配置文件中。
 
 ![Untitled](https://raw.githubusercontent.com/fan1029/PoorScanner/main/IMG/Untitled%2010.png)
 
