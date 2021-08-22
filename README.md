@@ -91,7 +91,7 @@ python poorscanner.py -u http://www.baidu.com/  -t hidden 隐蔽扫描
 
 ![Untitled](https://raw.githubusercontent.com/fan1029/PoorScanner/main/IMG/Untitled%204.png)
 
-上传server文件夹，然后点击部署。
+解压server.zip文件 点击上传文件夹，上传server文件夹（点上传zip会出错我也不知道为啥），然后点击部署。
 
 ![Untitled](https://raw.githubusercontent.com/fan1029/PoorScanner/main/IMG/Untitled%205.png)
 
