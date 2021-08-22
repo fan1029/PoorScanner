@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Version-1.0.1%20Beta-yellow)
 [![图片名称](https://img.shields.io/badge/%E5%8F%8D%E9%A6%88-%E7%82%B9%E6%88%91-brightgreen)](https://github.com/fan1029/PoorScanner/issues/new)
 
--软件在不同环境下可能不怎么稳定，如果有什么问题恳请大家反馈。说明书有什么错误的地方也大家欢迎指正。
+-工具在不同环境下可能不怎么稳定，如果有什么问题恳请大家反馈。说明书有什么错误的地方也大家欢迎指正。
 
 PoorScanner是一款依托腾讯云serverless云函数服务的目录扫描器，由于腾讯云云函数每次网络请求会有不同的出网IP(大概三四十个) 可以依靠此特性来实现简单的扫目录防封功能。适用于扫描中小型字典，不想花钱买代理的用户。(球球给孩子颗星星吧)
 
