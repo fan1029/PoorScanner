@@ -158,4 +158,5 @@ poorscanner 对应配置文件中的 repo
 
 ![Untitled](https://raw.githubusercontent.com/fan1029/PoorScanner/main/IMG/Untitled%2010.png)
 
+将配置文件填写到客户端服务端的配置文件中就完成了  服务端填写完成后要保存下然后点击部署
 ### 配置完成！
