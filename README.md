@@ -153,7 +153,7 @@ repo=同上
 
 ![Untitled](https://raw.githubusercontent.com/fan1029/PoorScanner/main/IMG/Untitled%208.png)
 
-创建个仓库
+创建个仓库 一定一定要选添加README.MD这样会自动创建master分支！！！！！
 
 ![Untitled](https://raw.githubusercontent.com/fan1029/PoorScanner/main/IMG/Untitled%209.png)
 
